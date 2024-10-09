@@ -12,6 +12,15 @@
   </a>
 </p>
 
+<h3 align="left">Projects:</h3>
+<ul>
+  <li><b>Streamlined CI/CD Pipeline: Orchestrated App Deployment and Monitoring</b></li>
+  <p>GitHub Repository: <a href="https://github.com/softtech-gourav/Boardgame.git" target="_blank">Boardgame</a></p>
+  
+  <li><b>Continuous Deployment of Web Application using CI/CD Pipeline</b></li>
+  <p>GitHub Repository: <a href="https://github.com/softtech-gourav/Ekart.git" target="_blank">Ekart</a></p>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gourav-patel-539675235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gourav-patel-539675235/" height="30" width="40" /></a>
