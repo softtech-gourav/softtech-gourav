@@ -51,6 +51,12 @@
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
 </p>
 
+---
+
+<h3 align="left">GitHub Stats and Most Used Languages:</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=softtech-gourav&show_icons=true&locale=en&layout=compact" alt="softtech-gourav" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=softtech-gourav&show_icons=true&locale=en" alt="softtech-gourav" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=softtech-gourav&" alt="softtech-gourav" /></p>
