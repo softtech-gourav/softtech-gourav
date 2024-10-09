@@ -21,6 +21,14 @@
   <p>GitHub Repository: <a href="https://github.com/softtech-gourav/Ekart.git" target="_blank">Ekart</a></p>
 </ul>
 
+<h3 align="left">Skills:</h3>
+<ul>
+  <li><b>Programming & Scripting:</b> Python, Bash, Javascript, YAML</li>
+  <li><b>Tools & Operating Systems:</b> Docker, Kubernetes, Terraform, Ansible, Helm, SonarQube</li>
+  <li><b>Deployment & Version Control:</b> CI/CD Pipelines, Agile, Jenkins, Argo-CD, Git, GitHub, Docker Hub, Nexus, Incremental Release</li>
+  <li><b>Databases & Cloud Services:</b> MongoDB, MySQL, Amazon Web Services, Google Cloud Platform</li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gourav-patel-539675235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gourav-patel-539675235/" height="30" width="40" /></a>
