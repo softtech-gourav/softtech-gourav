@@ -1,37 +1,13 @@
-<h1 align="center">Hi Everyone👋 Gourav Patel</h1>
+<h1 align="center">Hi Everyone👋 I'm Gourav Patel</h1>
 <h3 align="center">A passionate DevOps Engineer From India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=softtech-gourav&label=Profile%20views&color=0e75b6&style=flat" alt="softtech-gourav" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=softtech-gourav" alt="softtech-gourav" /></a> </p>
 
-<h3 align="left">Certifications:</h3>
-<p align="left">
-  <a href="https://www.cncf.io/certification/cka/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Certified Kubernetes Administrator" />
-  </a>
-</p>
-
-<h3 align="left">Projects:</h3>
-<ul>
-  <li><b>Streamlined CI/CD Pipeline: Orchestrated App Deployment and Monitoring</b></li>
-  <p>GitHub Repository: <a href="https://github.com/softtech-gourav/Boardgame.git" target="_blank">Boardgame</a></p>
-  
-  <li><b>Continuous Deployment of Web Application using CI/CD Pipeline</b></li>
-  <p>GitHub Repository: <a href="https://github.com/softtech-gourav/Ekart.git" target="_blank">Ekart</a></p>
-</ul>
-
-<h3 align="left">Skills:</h3>
-<ul>
-  <li><b>Programming & Scripting:</b> Python, Bash, Javascript, YAML</li>
-  <li><b>Tools & Operating Systems:</b> Docker, Kubernetes, Terraform, Ansible, Helm, SonarQube</li>
-  <li><b>Deployment & Version Control:</b> CI/CD Pipelines, Agile, Jenkins, Argo-CD, Git, GitHub, Docker Hub, Nexus, Incremental Release</li>
-  <li><b>Databases & Cloud Services:</b> MongoDB, MySQL, Amazon Web Services, Google Cloud Platform</li>
-</ul>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gourav-patel-539675235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gourav-patel-539675235/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gourav-patel-539675235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gourav Patel LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -51,12 +27,30 @@
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
 </p>
 
----
+<h3 align="left">Programming & Scripting:</h3>
+<p align="left">Python, Bash, JavaScript, YAML</p>
 
-<h3 align="left">GitHub Stats and Most Used Languages:</h3>
+<h3 align="left">Tools & Operating Systems:</h3>
+<p align="left">Docker, Kubernetes, Terraform, Ansible, Helm, SonarQube</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=softtech-gourav&show_icons=true&locale=en&layout=compact" alt="softtech-gourav" /></p>
+<h3 align="left">Deployment & Version Control:</h3>
+<p align="left">CI/CD Pipelines, Agile, Jenkins, Argo-CD, Git, GitHub, Docker Hub, Nexus, Incremental Release</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=softtech-gourav&show_icons=true&locale=en" alt="softtech-gourav" /></p>
+<h3 align="left">Databases & Cloud Services:</h3>
+<p align="left">MongoDB, MySQL, Amazon Web Services, Google Cloud Platform</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=softtech-gourav&" alt="softtech-gourav" /></p>
+<h3 align="left">Most Used Languages:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=softtech-gourav&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=6&include_repo=Boardgame,Ekart" alt="softtech-gourav" />
+</p>
+
+<h3 align="left">Projects:</h3>
+<ul>
+  <li>Streamlined CI/CD Pipeline: Orchestrated App Deployment and Monitoring - <a href="https://github.com/softtech-gourav/Boardgame.git">GitHub Repo</a></li>
+  <li>Continuous Deployment of Web Application using CI/CD Pipeline - <a href="https://github.com/softtech-gourav/Ekart.git">GitHub Repo</a></li>
+</ul>
+
+<h3 align="left">Certifications:</h3>
+<p align="left">Certified Kubernetes Administrator (CKA)</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=softtech-gourav&show_icons=true&locale=en" alt="softtech-gourav" /></p>
