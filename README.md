@@ -61,4 +61,9 @@
 <h3 align="left">Certifications:</h3>
 <p align="left">Certified Kubernetes Administrator (CKA)</p>
 
+<h3 align="left">Contribution Graph:</h3>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=softtech-gourav&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" alt="softtech-gourav's contribution graph" />
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=softtech-gourav&show_icons=true&locale=en" alt="softtech-gourav" /></p>
