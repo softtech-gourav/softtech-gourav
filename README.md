@@ -5,9 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=softtech-gourav" alt="softtech-gourav" /></a> </p>
 
+<h3 align="left">🔭 I’m currently working on DevOps Project using git, github, AWS, linux, Jenkins, SonarQube, Trivy, Ansible and Docker,k8s</h3>
+<h3 align="left">🌱 I’m currently learning DevOps</h3>
+<h3 align="left">📝 I regularly write articles on Medium <a href="https://medium.com/@gouravpatel0897" target="_blank">https://medium.com/@gouravpatel0897</a></h3>
+<h3 align="left">💬 Ask me about git,github,Linux,aws,SonarQube,docker,jenkins,kubernetes</h3>
+<h3 align="left">📫 How to reach me softtech.gourav@gmail.com</h3>
+<h3 align="left">📄 Know about my experiences <a href="https://drive.google.com/file/d/1POmhL1AOnOq6XxHWbUY7JKEBdBt8Iz9c/view?usp=drive_link" target="_blank">Google Drive Link</a></h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gourav-patel-539675235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gourav Patel LinkedIn" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/gourav-patel-539675235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gourav Patel LinkedIn" height="30" width="40" /></a>
+  <a href="https://medium.com/@gouravpatel0897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
