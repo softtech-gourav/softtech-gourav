@@ -9,7 +9,7 @@
 <h3 align="left">🌱 I’m currently learning DevOps</h3>
 <h3 align="left">📝 I regularly write articles on Medium <a href="https://medium.com/@gouravpatel0897" target="_blank">https://medium.com/@gouravpatel0897</a></h3>
 <h3 align="left">💬 Ask me about git,github,Linux,aws,SonarQube,docker,jenkins,kubernetes</h3>
-<h3 align="left">📫 How to reach me softtech.gourav@gmail.com</h3>
+<h3 align="left">📫 How to reach me: <a href="mailto:softtech.gourav@gmail.com">softtech.gourav@gmail.com</a></h3>
 <h3 align="left">📄 Know about my experiences <a href="https://drive.google.com/file/d/1POmhL1AOnOq6XxHWbUY7JKEBdBt8Iz9c/view?usp=drive_link" target="_blank">Google Drive Link</a></h3>
 
 <h3 align="left">Connect with me:</h3>
