@@ -6,7 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=softtech-gourav" alt="softtech-gourav" /></a> </p>
 
 <h3 align="left">🔭 I’m currently working on DevOps Project using git, github, AWS, linux, Jenkins, SonarQube, Trivy, Nexus, Docker, Kubernetes, Prometheus, Grafana</h3>
-<h3 align="left">🌱 I’m currently learning Helm charts and ArgoCD</h3>
 <h3 align="left">📝 I regularly write articles on Medium <a href="https://medium.com/@gouravpatel0897" target="_blank">https://medium.com/@gouravpatel0897</a></h3>
 <h3 align="left">💬 Ask me about git, github, AWS, linux, Jenkins, SonarQube, Trivy, Nexus, Jfrog, Ansible, Terraform, Docker, Kubernetes, Helm chart, Prometheus, Grafana, ArgoCD</h3>
 <h3 align="left">📫 How to reach me: <a href="mailto:softtech.gourav@gmail.com">softtech.gourav@gmail.com</a></h3>
