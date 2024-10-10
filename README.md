@@ -5,12 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=softtech-gourav" alt="softtech-gourav" /></a> </p>
 
-<h3 align="left">🔭 I’m currently working on DevOps Project using git, github, AWS, linux, Jenkins, SonarQube, Trivy, Ansible and Docker,k8s</h3>
-<h3 align="left">🌱 I’m currently learning DevOps</h3>
+<h3 align="left">🔭 I’m currently working on DevOps Project using git, github, AWS, linux, Jenkins, SonarQube, Trivy, Nexus, Docker, Kubernetes, Prometheus, Grafana</h3>
+<h3 align="left">🌱 I’m currently learning Helm charts and ArgoCD</h3>
 <h3 align="left">📝 I regularly write articles on Medium <a href="https://medium.com/@gouravpatel0897" target="_blank">https://medium.com/@gouravpatel0897</a></h3>
-<h3 align="left">💬 Ask me about git,github,Linux,aws,SonarQube,docker,jenkins,kubernetes</h3>
+<h3 align="left">💬 Ask me about git, github, AWS, linux, Jenkins, SonarQube, Trivy, Nexus, Jfrog, Ansible, Terraform, Docker, Kubernetes, Helm chart, Prometheus, Grafana, ArgoCD</h3>
 <h3 align="left">📫 How to reach me: <a href="mailto:softtech.gourav@gmail.com">softtech.gourav@gmail.com</a></h3>
 <h3 align="left">📄 Know about my experiences <a href="https://drive.google.com/file/d/1POmhL1AOnOq6XxHWbUY7JKEBdBt8Iz9c/view?usp=drive_link" target="_blank">Google Drive Link</a></h3>
+
+<h3 align="left">Certifications:</h3>
+<p align="left">Certified Kubernetes Administrator (CKA)</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -57,9 +60,6 @@
   <li>Streamlined CI/CD Pipeline: Orchestrated App Deployment and Monitoring - <a href="https://github.com/softtech-gourav/Boardgame.git">GitHub Repo</a></li>
   <li>Continuous Deployment of Web Application using CI/CD Pipeline - <a href="https://github.com/softtech-gourav/Ekart.git">GitHub Repo</a></li>
 </ul>
-
-<h3 align="left">Certifications:</h3>
-<p align="left">Certified Kubernetes Administrator (CKA)</p>
 
 <h3 align="left">Contribution Graph:</h3>
 <p align="center">
