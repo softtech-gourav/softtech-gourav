@@ -10,14 +10,25 @@
 <h3 align="left">📫 How to reach me: <a href="mailto:softtech.gourav@gmail.com">softtech.gourav@gmail.com</a></h3>
 <h3 align="left">📄 Know about my experiences <a href="https://drive.google.com/file/d/1POmhL1AOnOq6XxHWbUY7JKEBdBt8Iz9c/view?usp=drive_link" target="_blank">Google Drive Link</a></h3>
 
-<h3 align="left">Certifications:</h3>
-<p align="left">Certified Kubernetes Administrator (CKA)</p>
+<!-- Add GIF next to the Certifications and Connect section -->
+<div style="display: flex; align-items: flex-start;">
+  <!-- GIF on the left -->
+  <div>
+    <img src="./gif3.gif" alt="DevOps GIF" width="200" style="margin-right: 20px;"/>
+  </div>
+  
+  <!-- Certifications and Connect with me section on the right -->
+  <div>
+    <h3 align="left">Certifications:</h3>
+    <p align="left">Certified Kubernetes Administrator (CKA)</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/gourav-patel-539675235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gourav Patel LinkedIn" height="30" width="40" /></a>
-  <a href="https://medium.com/@gouravpatel0897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-</p>
+    <h3 align="left">Connect with me:</h3>
+    <p align="left">
+      <a href="https://linkedin.com/in/gourav-patel-539675235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gourav Patel LinkedIn" height="30" width="40" /></a>
+      <a href="https://medium.com/@gouravpatel0897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+    </p>
+  </div>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
