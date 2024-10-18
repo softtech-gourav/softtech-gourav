@@ -7,14 +7,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<img align="right" alt="Kubernetes Animation" width="400" src="animated_image.gif">
-
-
 <h3 align="left">🔭 I’m currently working on DevOps Project using git, github, AWS, linux, Jenkins, SonarQube, Nexus, Trivy, Docker,kubernetes, Prometheus and Grafana</h3>
 <h3 align="left">🌱 I’m currently learning DevOps</h3>
 <h3 align="left">📝 I regularly write articles on Medium <a href="https://medium.com/@gouravpatel0897" target="_blank">https://medium.com/@gouravpatel0897</a></h3>
 <h3 align="left">📫 How to reach me: <a href="mailto:softtech.gourav@gmail.com">softtech.gourav@gmail.com</a></h3>
 <h3 align="left">📄 Know about my experiences <a href="https://drive.google.com/file/d/1POmhL1AOnOq6XxHWbUY7JKEBdBt8Iz9c/view?usp=drive_link" target="_blank">Google Drive Link</a></h3>
+
 
 <h3 align="left">Certifications:</h3>
 <ul>
