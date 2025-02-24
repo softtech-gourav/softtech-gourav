@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=softtech-gourav" alt="softtech-gourav" /></a> </p>
 
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h3 align="left">🔭 I’m currently working on DevOps Project using git, github, AWS, linux, Jenkins, SonarQube, Nexus, Trivy, Docker,kubernetes, Prometheus and Grafana</h3>
